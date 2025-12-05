@@ -1,4 +1,4 @@
-# -snapp-bomber-sms
+# DN-bomber-sms
 Use it for fun and we don't accept any talk
 
 
@@ -31,4 +31,30 @@ cd snapp-bomber-sms
 
 python bomber-DN.py
 
+# New Updates
 
+New services
+
+can attack with all services
+
+you can put a custom APi URl to send bomber
+
+snapp service works now
+
+# ایرانی
+
+به عنوان شوخی استفاده کنید ما هیچ مسئولیتی قبول نمی‌کنیم
+
+توسط hichkas و bigmasoud
+
+روبیکای ما @Dreadnaught
+
+# آپدیت های جدید
+
+وجود چند سرویس جدید
+
+امکان فعال کردن همه سرویس ها باهم
+
+امکان گذاشتن لینک API مورد نظر توسط کاربر
+
+رفع مشکلات API سرویس اسنپ
